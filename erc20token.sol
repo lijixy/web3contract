@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2023-02-12
-*/
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
@@ -206,4 +202,5 @@ contract ERC20 is IERC20, IERC20Metadata {
 
     receive() external payable {
     }
+
 }
